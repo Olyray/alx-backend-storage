@@ -7,3 +7,6 @@ This is the directory for the files of the MySQL advanced course module. These a
 4) 4-store.sql -  Creates a trigger that decreases the quantity of an item after adding a new order.
 5) 5-valid_email.sql - Resets the valid email column if the email is modified.
 6) 6-bonus.sql - An SQL script that creates a stored procedure AddBonus that adds a new correction for a student.
+7) 7-average_score.sql - An SQL script that creates a stored procedure ComputeAverageScoreForUser that computes and store the average score for a student.
+10) 10-div.sql - An SQL script that creates a function SafeDiv that divides (and returns) the first by the second number or returns 0 if the second number is equal to 0.
+11) 11-need_meeting.sql - An SQL script that creates a view need_meeting that lists all students that have a score under 80 (strict) and no last_meeting or more than 1 month.
