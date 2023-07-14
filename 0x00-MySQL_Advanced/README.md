@@ -5,3 +5,5 @@ This is the directory for the files of the MySQL advanced course module. These a
 2) 2-fans.sql - Ranks country origins of bands, ordered by the number of (non-unique) fans
 3) 3-glam_rock.sql -  Lists all bands with Glam rock as their main style, ranked by their longevity
 4) 4-store.sql -  Creates a trigger that decreases the quantity of an item after adding a new order.
+5) 5-valid_email.sql - Resets the valid email column if the email is modified.
+6) 6-bonus.sql - An SQL script that creates a stored procedure AddBonus that adds a new correction for a student.
