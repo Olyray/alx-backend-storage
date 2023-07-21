@@ -7,3 +7,4 @@ The files in this directory are the tasks for the MongoDB project.
 3) 3-all - List all the documents in a collection
 4) 4-match - List all documents with a specific name
 5) 5-count - Count the number of documents in a collection.
+6) 6-update - Adds a new attribute to a specific document
